@@ -287,7 +287,7 @@ export default createStore(rootReducer, applyMiddleware(promiseMiddleware));
 </details>
 
 ## Step 5
-
+Log in using the email **`peterquill@gmail.com`**. The password is **`starlord`**.
 ### Summary
 
 In this step, we'll get the logged in user's data from the server, store that info in the redux store, and display the user's first and last name in the nav bar.
@@ -469,7 +469,7 @@ export default connect(mapStateToProps, { requestUserData })(Budget);
 
 ```
 </details>
-
+Log in using the email **`peterquill@gmail.com`**. The password is **`starlord`**.
 ## Step 6
 
 ### Summary
